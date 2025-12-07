@@ -1,7 +1,7 @@
 # California Housing Price Prediction
 
-**Course:** Statistical Machine Learning, AIMS  
-**Author:** [Lucas Mirija RAZAFIMANANTSOA]  
+**Course:** Statistical Machine Learning, AIMS Rwanda
+**Author:** Lucas Mirija RAZAFIMANANTSOA  
 
 ## Overview
 This project predicts the median house price in California using the built-in `California Housing` dataset. The analysis includes exploratory data analysis (EDA), feature engineering, and model building with both linear and non-linear methods.
