@@ -1,6 +1,7 @@
 # California Housing Price Prediction
 
 **Course:** Statistical Machine Learning, AIMS Rwanda
+
 **Author:** Lucas Mirija RAZAFIMANANTSOA  
 
 ## Overview
